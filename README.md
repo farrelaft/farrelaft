@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning GIS programming and webGIS development
 - 💞️ I’m looking to collaborate on geospatial and environtmental industry
 - 💪 I'm skilled in GIS, Remote sensing, HTML, CSS, Javascript, React.js, Node.js, SQL and mapping APIs (Mapbox and Leaflet)
-- 📫 How to reach me: farrelaffieto@gmail.com and [Linkedin](https://www.linkedin.com/in/farrel-affieto-evriantoro/) 
+- 📫 How to reach me: farrelaffieto@gmail.com or [Linkedin](https://www.linkedin.com/in/farrel-affieto-evriantoro/) 
 
 <!---
 farrelaft/farrelaft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
