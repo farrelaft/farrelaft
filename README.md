@@ -1,4 +1,4 @@
-## MY PROFILE!
+## MY PROFILE
 
 - 👋 Hi, my name is **Farrel Affieto Evriantoro**
 - 💖 I’m interested in spatial technology, environtmental issues and web development
